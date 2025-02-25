@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postgraduate student at Shenzhen University, specializing in next-generation electronic information technology.My research focuses on advancing the field of digital human modeling.
+I'm a postgraduate student at Shenzhen University, specializing in next-generation electronic information technology. My research focuses on advancing the field of digital human modeling.
