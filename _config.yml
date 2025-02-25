@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "XieChen's Personal Homepage"
+title                    : "Chen Xie's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xie Chen"
+  name             : "Chen Xie"
   pronouns         : # example: "she/her"  
   bio              : "A postgraduate"
   location         : "ShenZhen"
